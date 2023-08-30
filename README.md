@@ -17,14 +17,12 @@ welcome to my profile
 
 <!-- Github Stats  -->
 <!-- ![Yusril GitHub stats](https://github-readme-stats.vercel.app/api?username=yusril86&show_icons=true&theme=algolia) -->
-<h3 align="center" style="font-size:30px;">
-  Hi, I'm Yusril
-</h3>
+
 
 <div align="center">
 
-<a href="http://yusril.makkode.com/">
-<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Personal"/>
+<a href="http://facebook.com/ilhamnatsirb/">
+<img src="[https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)" alt="Website Personal"/>
 </a>
 
 <a href="https://www.linkedin.com/in/yusril-anwar/" target="_blank">
