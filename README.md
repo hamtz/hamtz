@@ -5,6 +5,16 @@
 I am freelancer web and android application developer.. I have made several IOT-based applications and am currently interested in python.
 
 
+### Hi Buddy 👋
+welcome to my profile
+
+<!-- ## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/yusril86/yusril86">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusril86&hide=scss,less,hack,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<br> -->
+
 <!-- Github Stats  -->
 <!-- ![Yusril GitHub stats](https://github-readme-stats.vercel.app/api?username=yusril86&show_icons=true&theme=algolia) -->
 <h3 align="center" style="font-size:30px;">
@@ -29,6 +39,10 @@ I am freelancer web and android application developer.. I have made several IOT-
 
 
 </div>
+
+</br>
+
+I am co
 
 
 <!--
