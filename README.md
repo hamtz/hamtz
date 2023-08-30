@@ -22,7 +22,7 @@ welcome to my profile
 <div align="center">
 
 <a href="http://facebook.com/ilhamnatsirb/">
-<img src="[https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)" alt="Website Personal"/>
+<img src="[https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Website Personal"/>
 </a>
 
 <a href="https://www.linkedin.com/in/yusril-anwar/" target="_blank">
