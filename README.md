@@ -4,28 +4,13 @@
 ### Hi there, Welcome to my Github 👋
 I am freelancer web and android application developer.. I have made several IOT-based applications and am currently interested in python.
 
-
-### Hi Buddy 👋
-welcome to my profile
-
-<!-- ## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/yusril86/yusril86">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusril86&hide=scss,less,hack,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<br> -->
-
-<!-- Github Stats  -->
-<!-- ![Yusril GitHub stats](https://github-readme-stats.vercel.app/api?username=yusril86&show_icons=true&theme=algolia) -->
-
-
 <div align="center">
 
-<a href="http://facebook.com/ilhamnatsirb/">
+<a href="http://facebook.com/ilhamnatsirb/" target="_blank">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
 
-<a href="https://www.linkedin.com/in/yusril-anwar/" target="_blank">
+<a href="https://www.linkedin.com/in/ilham-natsir-b93571154/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
 </a>
 
