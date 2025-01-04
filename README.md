@@ -10,7 +10,7 @@ I am freelancer web and android application developer.. I have made several IOT-
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
 
-<a href="[https://www.linkedin.com/in/ilham-natsir-b93571154/](https://www.linkedin.com/in/ilham-natsir-t-battoa-b93571154/)" target="_blank">
+<a href="https://www.linkedin.com/in/ilham-natsir-b93571154/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
 </a>
 
